@@ -3,4 +3,5 @@ Git is free software under GPL.
 Git has mutable index called stage
 when ever you try
 Git tracks changes
-My stupid boss still prefers SVN
+My boss still prefers SVN
+Creating a new branch is quick.
